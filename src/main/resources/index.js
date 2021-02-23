@@ -1,0 +1,1 @@
+alert("Bienvenido, para continuar pulse sobre aceptar");

@@ -1,4 +1,4 @@
-# LABORATORIO 2 📚
+# LABORATORIO 3 📚
 
 ## INTRODUCCIÓN
 
